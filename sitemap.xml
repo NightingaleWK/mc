@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mc.wkarrow.top/2023/12/08/fu-wu-qi-mod-yong-fa/</loc>
+    
+    <lastmod>2023-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mc.wkarrow.top/join/index.html</loc>
     
     <lastmod>2023-11-08</lastmod>
@@ -67,29 +76,43 @@
 
   <url>
     <loc>https://mc.wkarrow.top/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2023-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://mc.wkarrow.top/tags/%E5%9D%90%E6%A0%87/</loc>
+    <lastmod>2023-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mc.wkarrow.top/tags/%E6%88%AA%E5%9B%BE/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2023-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mc.wkarrow.top/tags/%E7%BA%AA%E5%BF%B5/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2023-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mc.wkarrow.top/tags/%E5%9D%90%E6%A0%87/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <loc>https://mc.wkarrow.top/tags/mod/</loc>
+    <lastmod>2023-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mc.wkarrow.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,7 +121,14 @@
   
   <url>
     <loc>https://mc.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <lastmod>2023-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mc.wkarrow.top/categories/%E6%B8%B8%E6%88%8F%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

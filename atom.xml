@@ -6,7 +6,7 @@
   <link href="https://mc.wkarrow.top/atom.xml" rel="self"/>
   
   <link href="https://mc.wkarrow.top/"/>
-  <updated>2023-11-07T08:10:26.440Z</updated>
+  <updated>2023-12-08T05:57:28.965Z</updated>
   <id>https://mc.wkarrow.top/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>服务器 mod 用法</title>
+    <link href="https://mc.wkarrow.top/2023/12/08/fu-wu-qi-mod-yong-fa/"/>
+    <id>https://mc.wkarrow.top/2023/12/08/fu-wu-qi-mod-yong-fa/</id>
+    <published>2023-12-08T04:00:00.000Z</published>
+    <updated>2023-12-08T05:57:28.965Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;ℹ️-登录注册-ℹ️&quot;&gt;&lt;a href=&quot;#ℹ️-登录注册-ℹ️&quot; class=&quot;headerlink&quot; title=&quot;ℹ️ 登录注册 ℹ️&quot;&gt;&lt;/a&gt;ℹ️ 登录注册 ℹ️&lt;/h2&gt;&lt;p&gt;🔹&lt;strong&gt;注册：&lt;/strong&gt;&lt;code&gt;/reg &amp;lt;password&amp;gt;</summary>
+        
+      
+    
+    
+    
+    <category term="游戏教程" scheme="https://mc.wkarrow.top/categories/%E6%B8%B8%E6%88%8F%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="mod" scheme="https://mc.wkarrow.top/tags/mod/"/>
+    
+    <category term="教程" scheme="https://mc.wkarrow.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>玩家高光时刻（第2季）</title>
     <link href="https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-2-ji/"/>
     <id>https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-2-ji/</id>
     <published>2023-11-07T06:00:00.000Z</published>
-    <updated>2023-11-07T08:10:26.440Z</updated>
+    <updated>2023-11-07T08:10:26.000Z</updated>
     
     
       
@@ -51,7 +78,7 @@
     <link href="https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-1-ji/"/>
     <id>https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-1-ji/</id>
     <published>2023-11-07T05:00:00.000Z</published>
-    <updated>2023-11-07T08:08:30.989Z</updated>
+    <updated>2023-11-07T08:08:30.000Z</updated>
     
     
       
@@ -81,7 +108,7 @@
     <link href="https://mc.wkarrow.top/2023/11/07/fu-wu-qi-gong-kai-zuo-biao/"/>
     <id>https://mc.wkarrow.top/2023/11/07/fu-wu-qi-gong-kai-zuo-biao/</id>
     <published>2023-11-07T04:00:00.000Z</published>
-    <updated>2023-11-07T08:05:04.912Z</updated>
+    <updated>2023-11-07T08:05:04.000Z</updated>
     
     
       
