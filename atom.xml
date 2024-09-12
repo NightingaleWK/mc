@@ -496,6 +496,25 @@
   </entry>
   
   <entry>
+    <title>laravel 表单请求验证简明示例</title>
+    <link href="https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/"/>
+    <id>https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/</id>
+    <published>2022-11-24T08:10:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简单写一下 laravel 表单请求验证使用方法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="表单验证" scheme="https://www.wkarrow.top/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>检测服务端口的方法</title>
     <link href="https://www.wkarrow.top/2022/11/24/46.jian-ce-fu-wu-duan-kou-de-fang-fa/"/>
     <id>https://www.wkarrow.top/2022/11/24/46.jian-ce-fu-wu-duan-kou-de-fang-fa/</id>
@@ -518,25 +537,6 @@
     
     
     <category term="端口查询" scheme="https://www.wkarrow.top/tags/%E7%AB%AF%E5%8F%A3%E6%9F%A5%E8%AF%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>laravel 表单请求验证简明示例</title>
-    <link href="https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/"/>
-    <id>https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/</id>
-    <published>2022-11-24T08:10:00.000Z</published>
-    <updated>2023-11-07T03:12:56.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;简单写一下 laravel 表单请求验证使用方法&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
-    
-    
-    <category term="表单验证" scheme="https://www.wkarrow.top/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
     
   </entry>
   
