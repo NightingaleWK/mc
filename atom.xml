@@ -568,6 +568,25 @@
   </entry>
   
   <entry>
+    <title>使用 net time 实现内网时间同步</title>
+    <link href="https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/"/>
+    <id>https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/</id>
+    <published>2022-08-30T06:20:00.000Z</published>
+    <updated>2023-11-07T02:40:35.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;公司某项目有 8 个 windows 7 工控机，这些机子经常时间彼此不统一，我计划让他们定期同步数据中心的一台服务器的时间，做到彼此之间的时间统一&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://www.wkarrow.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="net time" scheme="https://www.wkarrow.top/tags/net-time/"/>
+    
+  </entry>
+  
+  <entry>
     <title>sshpass 中使用 awk 的坑</title>
     <link href="https://www.wkarrow.top/2022/08/30/43.sshpass-zhong-shi-yong-awk-de-keng/"/>
     <id>https://www.wkarrow.top/2022/08/30/43.sshpass-zhong-shi-yong-awk-de-keng/</id>
@@ -586,25 +605,6 @@
     <category term="sshppass" scheme="https://www.wkarrow.top/tags/sshppass/"/>
     
     <category term="awk" scheme="https://www.wkarrow.top/tags/awk/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用 net time 实现内网时间同步</title>
-    <link href="https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/"/>
-    <id>https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/</id>
-    <published>2022-08-30T06:20:00.000Z</published>
-    <updated>2023-11-07T02:40:35.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;公司某项目有 8 个 windows 7 工控机，这些机子经常时间彼此不统一，我计划让他们定期同步数据中心的一台服务器的时间，做到彼此之间的时间统一&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="工具" scheme="https://www.wkarrow.top/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="net time" scheme="https://www.wkarrow.top/tags/net-time/"/>
     
   </entry>
   
