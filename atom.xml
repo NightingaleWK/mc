@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>膝盖中箭之地</title>
+  <title>雪漫城的风宅</title>
   
-  <subtitle>公益开放友好的 minecraft 服务器</subtitle>
-  <link href="https://mc.wkarrow.top/atom.xml" rel="self"/>
+  <subtitle>曾经我是一名冒险家，直到膝盖中了一箭</subtitle>
+  <link href="https://www.wkarrow.top/atom.xml" rel="self"/>
   
-  <link href="https://mc.wkarrow.top/"/>
-  <updated>2023-12-08T06:01:52.106Z</updated>
-  <id>https://mc.wkarrow.top/</id>
+  <link href="https://www.wkarrow.top/"/>
+  <updated>2024-09-09T09:07:46.071Z</updated>
+  <id>https://www.wkarrow.top/</id>
   
   <author>
     <name>NightingaleWK</name>
@@ -18,67 +18,180 @@
   
   <entry>
     <title>服务器 mod 用法</title>
-    <link href="https://mc.wkarrow.top/2023/12/08/fu-wu-qi-mod-yong-fa/"/>
-    <id>https://mc.wkarrow.top/2023/12/08/fu-wu-qi-mod-yong-fa/</id>
+    <link href="https://www.wkarrow.top/2023/12/08/63.fu-wu-qi-mod-yong-fa/"/>
+    <id>https://www.wkarrow.top/2023/12/08/63.fu-wu-qi-mod-yong-fa/</id>
     <published>2023-12-08T04:00:00.000Z</published>
-    <updated>2023-12-08T06:01:52.106Z</updated>
+    <updated>2024-09-09T09:07:46.071Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;ℹ️-登录注册-ℹ️&quot;&gt;&lt;a href=&quot;#ℹ️-登录注册-ℹ️&quot; class=&quot;headerlink&quot; title=&quot;ℹ️ 登录注册 ℹ️&quot;&gt;&lt;/a&gt;ℹ️ 登录注册 ℹ️&lt;/h2&gt;&lt;p&gt;🔹&lt;strong&gt;注册：&lt;/strong&gt;&lt;code&gt;/reg &amp;lt;password&amp;gt; &amp;lt;password&amp;gt; &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;🔹&lt;strong&gt;登录：&lt;/strong&gt;&lt;code&gt;/login &amp;lt;password&amp;gt; &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;初次进服务器需要叫腐竹拉你进白名单，否则进不去。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏教程" scheme="https://www.wkarrow.top/categories/%E6%B8%B8%E6%88%8F%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="mod" scheme="https://www.wkarrow.top/tags/mod/"/>
+    
+    <category term="教程" scheme="https://www.wkarrow.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel 10 在 vite 工作流中引入并使用 Font Awesome 6</title>
+    <link href="https://www.wkarrow.top/2023/11/21/62.laravel-10-zai-vite-gong-zuo-liu-zhong-yin-ru-bing-shi-yong-font-awesome/"/>
+    <id>https://www.wkarrow.top/2023/11/21/62.laravel-10-zai-vite-gong-zuo-liu-zhong-yin-ru-bing-shi-yong-font-awesome/</id>
+    <published>2023-11-21T10:00:00.000Z</published>
+    <updated>2023-11-21T08:50:57.620Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;ℹ️-登录注册-ℹ️&quot;&gt;&lt;a href=&quot;#ℹ️-登录注册-ℹ️&quot; class=&quot;headerlink&quot; title=&quot;ℹ️ 登录注册 ℹ️&quot;&gt;&lt;/a&gt;ℹ️ 登录注册 ℹ️&lt;/h2&gt;&lt;p&gt;🔹&lt;strong&gt;注册：&lt;/strong&gt;&lt;code&gt;/reg &amp;lt;password&amp;gt;</summary>
+    <summary type="html">&lt;p&gt;引入 Font Awesome 组件到 Laravel 项目的 Vite 构建中涉及一些步骤。以下是一般的指南：&lt;/p&gt;
+&lt;h2 id=&quot;1-安装-Font-Awesome：&quot;&gt;&lt;a href=&quot;#1-安装-Font-Awesome：&quot; class=&quot;headerlink&quot; title=&quot;1. 安装 Font</summary>
         
       
     
     
     
-    <category term="游戏教程" scheme="https://mc.wkarrow.top/categories/%E6%B8%B8%E6%88%8F%E6%95%99%E7%A8%8B/"/>
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
     
     
-    <category term="mod" scheme="https://mc.wkarrow.top/tags/mod/"/>
+    <category term="Font Awesome" scheme="https://www.wkarrow.top/tags/Font-Awesome/"/>
     
-    <category term="教程" scheme="https://mc.wkarrow.top/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="vite" scheme="https://www.wkarrow.top/tags/vite/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel 项目执行 sail up 报 80 端口占用问题</title>
+    <link href="https://www.wkarrow.top/2023/11/16/61.laravel-xiang-mu-zhi-xing-sail-up-bao-80-duan-kou-zhan-yong-wen-ti/"/>
+    <id>https://www.wkarrow.top/2023/11/16/61.laravel-xiang-mu-zhi-xing-sail-up-bao-80-duan-kou-zhan-yong-wen-ti/</id>
+    <published>2023-11-16T09:00:00.000Z</published>
+    <updated>2023-11-16T09:09:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天给一台新机器装好 laravel sail 环境后，在最后一步启动项目时，报错如下：&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="laravel sail" scheme="https://www.wkarrow.top/tags/laravel-sail/"/>
+    
+    <category term="故障排除" scheme="https://www.wkarrow.top/tags/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel artisan route 用法</title>
+    <link href="https://www.wkarrow.top/2023/11/15/60.laravel-artisan-route-yong-fa/"/>
+    <id>https://www.wkarrow.top/2023/11/15/60.laravel-artisan-route-yong-fa/</id>
+    <published>2023-11-15T09:00:00.000Z</published>
+    <updated>2023-11-15T09:22:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;基本用法是：&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="artisan 指令" scheme="https://www.wkarrow.top/tags/artisan-%E6%8C%87%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>玩家高光时刻（第2季）</title>
-    <link href="https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-2-ji/"/>
-    <id>https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-2-ji/</id>
+    <link href="https://www.wkarrow.top/2023/11/07/66.wan-jia-gao-guang-shi-ke-di-2-ji/"/>
+    <id>https://www.wkarrow.top/2023/11/07/66.wan-jia-gao-guang-shi-ke-di-2-ji/</id>
     <published>2023-11-07T06:00:00.000Z</published>
-    <updated>2023-11-07T08:10:26.000Z</updated>
+    <updated>2024-09-09T09:07:58.987Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;展示高质量碳基生物的点点滴滴，佛系更新，欢迎大家积极提供素材。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://cdn.wkarrow.top/wp-content/uploads/2020/05/2020-03-09-22.jpg&quot;&gt;&lt;img</summary>
-        
-      
+&lt;/blockquote&gt;</summary>
     
     
     
-    <category term="信息公开" scheme="https://mc.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
+    <category term="信息公开" scheme="https://www.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
     
     
-    <category term="截图" scheme="https://mc.wkarrow.top/tags/%E6%88%AA%E5%9B%BE/"/>
+    <category term="截图" scheme="https://www.wkarrow.top/tags/%E6%88%AA%E5%9B%BE/"/>
     
-    <category term="纪念" scheme="https://mc.wkarrow.top/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://www.wkarrow.top/tags/%E7%BA%AA%E5%BF%B5/"/>
     
   </entry>
   
   <entry>
     <title>玩家高光时刻（第1季）</title>
-    <link href="https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-1-ji/"/>
-    <id>https://mc.wkarrow.top/2023/11/07/wan-jia-gao-guang-shi-ke-di-1-ji/</id>
+    <link href="https://www.wkarrow.top/2023/11/07/65.wan-jia-gao-guang-shi-ke-di-1-ji/"/>
+    <id>https://www.wkarrow.top/2023/11/07/65.wan-jia-gao-guang-shi-ke-di-1-ji/</id>
     <published>2023-11-07T05:00:00.000Z</published>
-    <updated>2023-11-07T08:08:30.000Z</updated>
+    <updated>2024-09-09T09:07:56.304Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;展示高质量碳基生物的点点滴滴，佛系更新，欢迎大家积极提供素材。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="信息公开" scheme="https://www.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
+    
+    
+    <category term="截图" scheme="https://www.wkarrow.top/tags/%E6%88%AA%E5%9B%BE/"/>
+    
+    <category term="纪念" scheme="https://www.wkarrow.top/tags/%E7%BA%AA%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>服务器公开坐标</title>
+    <link href="https://www.wkarrow.top/2023/11/07/64.fu-wu-qi-gong-kai-zuo-biao/"/>
+    <id>https://www.wkarrow.top/2023/11/07/64.fu-wu-qi-gong-kai-zuo-biao/</id>
+    <published>2023-11-07T04:00:00.000Z</published>
+    <updated>2024-09-09T09:07:52.416Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;等待补充&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="信息公开" scheme="https://www.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
+    
+    
+    <category term="坐标" scheme="https://www.wkarrow.top/tags/%E5%9D%90%E6%A0%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哎，又把博客迁移了</title>
+    <link href="https://www.wkarrow.top/2023/11/07/59.ai-you-ba-bo-ke-qian-yi-liao/"/>
+    <id>https://www.wkarrow.top/2023/11/07/59.ai-you-ba-bo-ke-qian-yi-liao/</id>
+    <published>2023-11-07T02:57:43.000Z</published>
+    <updated>2023-11-07T03:08:08.000Z</updated>
     
     
       
@@ -86,46 +199,539 @@
         
         
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;展示高质量碳基生物的点点滴滴，佛系更新，欢迎大家积极提供素材。&lt;/p&gt;
+&lt;p&gt;就结果来说，我还是回归 hexo 的怀抱了。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.mc.wkarrow.top/ShiningStars/1-20210920/1.png&quot;&gt;&lt;br&gt;&lt;img</summary>
+&lt;p&gt;本来我的博客部署在自己的腾讯云轻量服务器，但是最近手头的项目需要部署测试，就可能对服务器进行一些变动和修改，甚至重装，这就对博客的稳定造成了影响。为了追求稳定，我决定还是把网站部署到 github</summary>
         
       
     
     
     
-    <category term="信息公开" scheme="https://mc.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
+    <category term="个人" scheme="https://www.wkarrow.top/categories/%E4%B8%AA%E4%BA%BA/"/>
     
     
-    <category term="截图" scheme="https://mc.wkarrow.top/tags/%E6%88%AA%E5%9B%BE/"/>
-    
-    <category term="纪念" scheme="https://mc.wkarrow.top/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="迁移" scheme="https://www.wkarrow.top/tags/%E8%BF%81%E7%A7%BB/"/>
     
   </entry>
   
   <entry>
-    <title>服务器公开坐标</title>
-    <link href="https://mc.wkarrow.top/2023/11/07/fu-wu-qi-gong-kai-zuo-biao/"/>
-    <id>https://mc.wkarrow.top/2023/11/07/fu-wu-qi-gong-kai-zuo-biao/</id>
-    <published>2023-11-07T04:00:00.000Z</published>
-    <updated>2023-11-07T08:05:04.000Z</updated>
+    <title>配置并部署 laravel 10 项目到 ubuntu 22.04.2 服务器</title>
+    <link href="https://www.wkarrow.top/2023/07/10/57.pei-zhi-bing-bu-shu-laravel-10-xiang-mu-dao-ubuntu-22.04.2-fu-wu-qi/"/>
+    <id>https://www.wkarrow.top/2023/07/10/57.pei-zhi-bing-bu-shu-laravel-10-xiang-mu-dao-ubuntu-22.04.2-fu-wu-qi/</id>
+    <published>2023-07-10T06:21:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;等待补充&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;ubuntu-镜像下载与安装&quot;&gt;&lt;a href=&quot;#ubuntu-镜像下载与安装&quot; class=&quot;headerlink&quot; title=&quot;ubuntu 镜像下载与安装&quot;&gt;&lt;/a&gt;ubuntu 镜像下载与安装&lt;/h2&gt;&lt;p&gt;ubuntu 官方可免费下载服务器版本的 iso</summary>
         
       
     
     
     
-    <category term="信息公开" scheme="https://mc.wkarrow.top/categories/%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/"/>
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
     
     
-    <category term="坐标" scheme="https://mc.wkarrow.top/tags/%E5%9D%90%E6%A0%87/"/>
+    <category term="代码部署" scheme="https://www.wkarrow.top/tags/%E4%BB%A3%E7%A0%81%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 同时推送本地代码到远端 2 个仓库</title>
+    <link href="https://www.wkarrow.top/2023/07/06/58.git-tong-shi-tui-song-ben-di-dai-ma-dao-yuan-duan-2-ge-cang-ku/"/>
+    <id>https://www.wkarrow.top/2023/07/06/58.git-tong-shi-tui-song-ben-di-dai-ma-dao-yuan-duan-2-ge-cang-ku/</id>
+    <published>2023-07-06T00:36:00.000Z</published>
+    <updated>2023-11-07T02:52:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本地代码执行如下命令，可将代码同时提交到 github 和 coding 两个平台：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="git" scheme="https://www.wkarrow.top/categories/git/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>（更新中）将 homestead 中的项目迁移到 laravel sail 中进行开发</title>
+    <link href="https://www.wkarrow.top/2023/05/09/56.geng-xin-zhong-jiang-homestead-zhong-de-xiang-mu-qian-yi-dao-laravel-sail-zhong-jin-xing-kai-fa/"/>
+    <id>https://www.wkarrow.top/2023/05/09/56.geng-xin-zhong-jiang-homestead-zhong-de-xiang-mu-qian-yi-dao-laravel-sail-zhong-jin-xing-kai-fa/</id>
+    <published>2023-05-09T01:43:00.000Z</published>
+    <updated>2023-11-07T02:51:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文的目的是：将原本跑 homestead 环境下的 laravel 项目，迁移到官方最新推荐的 laravel sail 开发环境中。下面我分享一下我的操作方法。&lt;/p&gt;
+&lt;p&gt;在文章开始之前，我们默认大家均已拥有一个 homestead 开发环境，且你也是在其之上本地开发多次的开发者，而且你的需求是将你的</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="homestead" scheme="https://www.wkarrow.top/tags/homestead/"/>
+    
+    <category term="laravel sail" scheme="https://www.wkarrow.top/tags/laravel-sail/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决 .gitignore 无效的问题</title>
+    <link href="https://www.wkarrow.top/2023/03/28/55.jie-jue.gitignore-wu-xiao-de-wen-ti/"/>
+    <id>https://www.wkarrow.top/2023/03/28/55.jie-jue.gitignore-wu-xiao-de-wen-ti/</id>
+    <published>2023-03-28T00:38:00.000Z</published>
+    <updated>2023-11-07T02:50:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先确定好需要忽略的文件或文件夹，并加入到 .gitignore 中，然后执行：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="git" scheme="https://www.wkarrow.top/categories/git/"/>
+    
+    
+    <category term="debug" scheme="https://www.wkarrow.top/tags/debug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>皮蛋瘦肉粥</title>
+    <link href="https://www.wkarrow.top/2023/01/04/54.pi-dan-shou-rou-zhou/"/>
+    <id>https://www.wkarrow.top/2023/01/04/54.pi-dan-shou-rou-zhou/</id>
+    <published>2023-01-04T09:31:00.000Z</published>
+    <updated>2023-11-07T02:49:46.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;200克大米（也可糯米大米各100克），淘米洗净，然后重新加入清水500克，浸泡5小时，浸泡完毕后倒掉水&lt;/li&gt;
+&lt;li&gt;里脊肉50g切丝、皮蛋一个捏碎或切丁、料酒2g、盐6g、鸡精3g、味精3g、食用碱0.5g&lt;/li&gt;
+&lt;li&gt;用上方的盐、料酒腌制一下肉丝。&lt;/li&gt;
+&lt;li&gt;砂锅倒入食用碱、盐</summary>
+        
+      
+    
+    
+    
+    <category term="美食" scheme="https://www.wkarrow.top/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="粥" scheme="https://www.wkarrow.top/tags/%E7%B2%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地道黄焖鸡</title>
+    <link href="https://www.wkarrow.top/2022/12/20/53.di-dao-huang-men-ji/"/>
+    <id>https://www.wkarrow.top/2022/12/20/53.di-dao-huang-men-ji/</id>
+    <published>2022-12-20T09:25:00.000Z</published>
+    <updated>2023-11-07T02:49:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原料&quot;&gt;&lt;a href=&quot;#原料&quot; class=&quot;headerlink&quot; title=&quot;原料&quot;&gt;&lt;/a&gt;原料&lt;/h2&gt;&lt;p&gt;1.5 斤鸡腿&lt;br&gt;土豆切块&lt;br&gt;杭椒辣椒等切块&lt;/p&gt;
+&lt;h2 id=&quot;调味&quot;&gt;&lt;a href=&quot;#调味&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="美食" scheme="https://www.wkarrow.top/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="特色小吃" scheme="https://www.wkarrow.top/tags/%E7%89%B9%E8%89%B2%E5%B0%8F%E5%90%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>发起 laravel 队列任务不生效</title>
+    <link href="https://www.wkarrow.top/2022/12/14/52.fa-qi-laravel-dui-lie-ren-wu-bu-sheng-xiao/"/>
+    <id>https://www.wkarrow.top/2022/12/14/52.fa-qi-laravel-dui-lie-ren-wu-bu-sheng-xiao/</id>
+    <published>2022-12-14T08:48:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;当确定你的代码都没问题，而且队列都在运行，而且是你变动了 job 文件，那很有可能是缓存原因导致的，清理一下&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="debug" scheme="https://www.wkarrow.top/tags/debug/"/>
+    
+    <category term="队列" scheme="https://www.wkarrow.top/tags/%E9%98%9F%E5%88%97/"/>
+    
+    <category term="redis" scheme="https://www.wkarrow.top/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 laravel 中使用 redis 队列</title>
+    <link href="https://www.wkarrow.top/2022/12/09/51.zai-laravel-zhong-shi-yong-redis-dui-lie/"/>
+    <id>https://www.wkarrow.top/2022/12/09/51.zai-laravel-zhong-shi-yong-redis-dui-lie/</id>
+    <published>2022-12-09T08:04:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我们实现的效果为：将一些业务逻辑转化为任务（job），然后启用队列功能，而且是 redis 的队列，同时使用 laravel 官方扩展 Horizon 实现队列的监控。将复杂耗时的工作后台处理，提高前台用户的使用体验。&lt;/p&gt;
+&lt;h2 id=&quot;1-安装-redis&quot;&gt;&lt;a href=&quot;#1-安装-redis&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="队列" scheme="https://www.wkarrow.top/tags/%E9%98%9F%E5%88%97/"/>
+    
+    <category term="redis" scheme="https://www.wkarrow.top/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>又一次更换博客系统辣</title>
+    <link href="https://www.wkarrow.top/2022/11/24/50.you-yi-ci-geng-huan-bo-ke-xi-tong-la/"/>
+    <id>https://www.wkarrow.top/2022/11/24/50.you-yi-ci-geng-huan-bo-ke-xi-tong-la/</id>
+    <published>2022-11-24T08:57:00.000Z</published>
+    <updated>2023-11-07T02:46:52.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;当你看到这个文章的时候，我已经从 hexo 换回到 typecho 了，最近发现作者开始更新，版本到 1.2.0 ，普大喜奔🫡&lt;/p&gt;
+&lt;p&gt;我花了点时间把之前的博客迁移到了 typecho，以后就用它啦&lt;/p&gt;
+&lt;p&gt;另外，最近抢了一台腾讯云的轻量云服务器，333元3年，2C2G</summary>
+        
+      
+    
+    
+    
+    <category term="个人" scheme="https://www.wkarrow.top/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+    <category term="迁移" scheme="https://www.wkarrow.top/tags/%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel blade 简明示例</title>
+    <link href="https://www.wkarrow.top/2022/11/24/49.laravel-blade-jian-ming-shi-li/"/>
+    <id>https://www.wkarrow.top/2022/11/24/49.laravel-blade-jian-ming-shi-li/</id>
+    <published>2022-11-24T08:17:11.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简单捯饬一下 laravel 的 blade 使用方法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="blade" scheme="https://www.wkarrow.top/tags/blade/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel 事件系统简明示例</title>
+    <link href="https://www.wkarrow.top/2022/11/24/48.laravel-shi-jian-xi-tong-jian-ming-shi-li/"/>
+    <id>https://www.wkarrow.top/2022/11/24/48.laravel-shi-jian-xi-tong-jian-ming-shi-li/</id>
+    <published>2022-11-24T08:17:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简单对 laravel 事件系统做一些说明&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="事件" scheme="https://www.wkarrow.top/tags/%E4%BA%8B%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>检测服务端口的方法</title>
+    <link href="https://www.wkarrow.top/2022/11/24/46.jian-ce-fu-wu-duan-kou-de-fang-fa/"/>
+    <id>https://www.wkarrow.top/2022/11/24/46.jian-ce-fu-wu-duan-kou-de-fang-fa/</id>
+    <published>2022-11-24T08:10:00.000Z</published>
+    <updated>2023-11-07T02:43:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;通过以下方法，可查询 win 或 linux 系统中各种服务的端口是多少，方便加入到 zabbix 监管平台中&lt;/p&gt;
+&lt;h2 id=&quot;1-Linux-系统&quot;&gt;&lt;a href=&quot;#1-Linux-系统&quot; class=&quot;headerlink&quot; title=&quot;1. Linux 系统&quot;&gt;&lt;/a&gt;1. Linux</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.wkarrow.top/categories/linux/"/>
+    
+    
+    <category term="端口查询" scheme="https://www.wkarrow.top/tags/%E7%AB%AF%E5%8F%A3%E6%9F%A5%E8%AF%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel 表单请求验证简明示例</title>
+    <link href="https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/"/>
+    <id>https://www.wkarrow.top/2022/11/24/47.laravel-biao-dan-qing-qiu-yan-zheng-jian-ming-shi-li/</id>
+    <published>2022-11-24T08:10:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简单写一下 laravel 表单请求验证使用方法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="表单验证" scheme="https://www.wkarrow.top/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决 swap 占用过高的问题</title>
+    <link href="https://www.wkarrow.top/2022/09/15/45.jie-jue-swap-zhan-yong-guo-gao-de-wen-ti/"/>
+    <id>https://www.wkarrow.top/2022/09/15/45.jie-jue-swap-zhan-yong-guo-gao-de-wen-ti/</id>
+    <published>2022-09-15T08:56:00.000Z</published>
+    <updated>2023-11-07T02:41:19.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;公司某项目有 2 个机子的 swap 占满了，监控他们的 zabbix 平台一直提示高占用，于是开始着手解决一下这个问题。&lt;/p&gt;
+&lt;p&gt;首先我们释放 swap 存储的文件导内存&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://www.wkarrow.top/categories/linux/"/>
+    
+    
+    <category term="swap" scheme="https://www.wkarrow.top/tags/swap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sshpass 中使用 awk 的坑</title>
+    <link href="https://www.wkarrow.top/2022/08/30/43.sshpass-zhong-shi-yong-awk-de-keng/"/>
+    <id>https://www.wkarrow.top/2022/08/30/43.sshpass-zhong-shi-yong-awk-de-keng/</id>
+    <published>2022-08-30T06:20:00.000Z</published>
+    <updated>2023-11-07T02:39:51.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;之前在使用ssh远程执行命令，当使用到awk的时候总是报错，而sed和grep都没有问题，以为awk不支持远程执行。最近经过测试找到了解决此问题的方法。&lt;/p&gt;
+&lt;p&gt;最近编写公司项目的自动化运维脚本的时候，想在 sshpass 中使用 awk，本机上直接执行无问题，但是在 sshpass 下却一直报语法错误，其原因并非两者不兼容，而是语法问题。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="linux" scheme="https://www.wkarrow.top/categories/linux/"/>
+    
+    
+    <category term="sshppass" scheme="https://www.wkarrow.top/tags/sshppass/"/>
+    
+    <category term="awk" scheme="https://www.wkarrow.top/tags/awk/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 net time 实现内网时间同步</title>
+    <link href="https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/"/>
+    <id>https://www.wkarrow.top/2022/08/30/44.shi-yong-net-time-shi-xian-nei-wang-shi-jian-tong-bu/</id>
+    <published>2022-08-30T06:20:00.000Z</published>
+    <updated>2023-11-07T02:40:35.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;公司某项目有 8 个 windows 7 工控机，这些机子经常时间彼此不统一，我计划让他们定期同步数据中心的一台服务器的时间，做到彼此之间的时间统一&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://www.wkarrow.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="net time" scheme="https://www.wkarrow.top/tags/net-time/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 GIT 中 使用 GPG 签名</title>
+    <link href="https://www.wkarrow.top/2022/07/26/42.zai-git-zhong-shi-yong-gpg-qian-ming/"/>
+    <id>https://www.wkarrow.top/2022/07/26/42.zai-git-zhong-shi-yong-gpg-qian-ming/</id>
+    <published>2022-07-26T09:45:00.000Z</published>
+    <updated>2023-11-07T02:38:55.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文将介绍如何在 coding 中使用 GPG 签名加密你的每次 commit，来保证代码提交的真实性&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="git" scheme="https://www.wkarrow.top/categories/git/"/>
+    
+    
+    <category term="gpg" scheme="https://www.wkarrow.top/tags/gpg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Target Class does not exists 解决方案</title>
+    <link href="https://www.wkarrow.top/2022/04/26/41.target-class-does-not-exists-jie-jue-fang-an/"/>
+    <id>https://www.wkarrow.top/2022/04/26/41.target-class-does-not-exists-jie-jue-fang-an/</id>
+    <published>2022-04-26T04:45:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题情况&quot;&gt;&lt;a href=&quot;#问题情况&quot; class=&quot;headerlink&quot; title=&quot;问题情况&quot;&gt;&lt;/a&gt;问题情况&lt;/h2&gt;&lt;p&gt;在路由里写了一个 API 路由&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="debug" scheme="https://www.wkarrow.top/tags/debug/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel 定时任务配置方式</title>
+    <link href="https://www.wkarrow.top/2022/04/14/40.laravel-ding-shi-ren-wu-pei-zhi-fang-shi/"/>
+    <id>https://www.wkarrow.top/2022/04/14/40.laravel-ding-shi-ren-wu-pei-zhi-fang-shi/</id>
+    <published>2022-04-14T05:39:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1-创建一个自定义的-Command&quot;&gt;&lt;a href=&quot;#1-创建一个自定义的-Command&quot; class=&quot;headerlink&quot; title=&quot;1. 创建一个自定义的 Command&quot;&gt;&lt;/a&gt;1. 创建一个自定义的 Command&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;php artisan make:command WarrantyRefresh&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="定时任务" scheme="https://www.wkarrow.top/tags/%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 无法安装 fileinfo 的一种解决思路</title>
+    <link href="https://www.wkarrow.top/2022/03/22/39.php-wu-fa-an-zhuang-fileinfo-de-yi-chong-jie-jue-si-lu/"/>
+    <id>https://www.wkarrow.top/2022/03/22/39.php-wu-fa-an-zhuang-fileinfo-de-yi-chong-jie-jue-si-lu/</id>
+    <published>2022-03-22T05:38:00.000Z</published>
+    <updated>2023-11-07T03:12:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近拿到我司数据中心给的一台 8C16G 的虚机，预装 centos 7.9.2009 最新版本，使用 oneinstack 一键安装 lnmp 运行环境，硬是没给我装上 fileinfo 扩展，导致我的 laravel 8 项目中读取文件的各类操作均报错，这个问题还没找到解决方案。如下是我个人的一种解决思路，供大家参考&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="php" scheme="https://www.wkarrow.top/categories/php/"/>
+    
+    
+    <category term="fileinfo" scheme="https://www.wkarrow.top/tags/fileinfo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VS Code 使用公钥配合 Remote SSH 登录远程服务器</title>
+    <link href="https://www.wkarrow.top/2022/03/02/38.vs-code-shi-yong-gong-yao-pei-he-remote-ssh-deng-lu-yuan-cheng-fu-wu-qi/"/>
+    <id>https://www.wkarrow.top/2022/03/02/38.vs-code-shi-yong-gong-yao-pei-he-remote-ssh-deng-lu-yuan-cheng-fu-wu-qi/</id>
+    <published>2022-03-02T09:00:00.000Z</published>
+    <updated>2023-11-07T02:34:49.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;为了随时随地的使用不同设备链接同一个开发环境，也因为电脑赢弱的性能带不动开发环境，我决定使用远端开发的思路，于是就有了如何免密访问服务器的方案&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://www.wkarrow.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="vs code" scheme="https://www.wkarrow.top/tags/vs-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>（更新中）从零开始搭建 laravel Sail 开发环境</title>
+    <link href="https://www.wkarrow.top/2022/03/01/37.geng-xin-zhong-cong-ling-kai-shi-da-jian-laravel-sail-kai-fa-huan-jing/"/>
+    <id>https://www.wkarrow.top/2022/03/01/37.geng-xin-zhong-cong-ling-kai-shi-da-jian-laravel-sail-kai-fa-huan-jing/</id>
+    <published>2022-03-01T09:00:00.000Z</published>
+    <updated>2023-11-16T08:48:43.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;之前的 laravel 开发环境均为 windows + homestead，一直都用得挺好没问题，但由于 Windows 11 的稳定性越来越好，并且内置的 WSL 也更新到了第二代，再加上 laravel 官方也将推荐的统一开发环境换成了 laravel</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.wkarrow.top/categories/laravel/"/>
+    
+    
+    <category term="laravel sail" scheme="https://www.wkarrow.top/tags/laravel-sail/"/>
     
   </entry>
   
